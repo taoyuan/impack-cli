@@ -1,0 +1,31 @@
+{
+  "name": "impack-cli",
+  "version": "0.1.0",
+  "description": "The impack command line tools",
+  "license": "MIT",
+  "repository": "taoyuan/impack-cli",
+  "author": {
+    "name": "Yuan Tao",
+    "email": "towyuan@outlook.com",
+    "url": "github.com/taoyuan"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "bin": {
+    "impack": "bin/impack.js"
+  },
+  "keywords": [
+    "impack",
+    "deb",
+    "tools",
+    "armhf",
+    "raspberrypi",
+    "rpi"
+  ],
+  "dependencies": {
+    "caporal": "^0.7.0",
+    "impack": "^1.2.3",
+    "lodash": "^4.17.4"
+  }
+}
