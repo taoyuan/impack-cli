@@ -1,6 +1,6 @@
 {
   "name": "impack-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "The impack command line tools",
   "license": "MIT",
   "repository": "taoyuan/impack-cli",
@@ -25,7 +25,7 @@
   ],
   "dependencies": {
     "caporal": "^0.7.0",
-    "impack": "^1.2.3",
+    "impack": "^1.2.6",
     "lodash": "^4.17.4"
   }
 }
