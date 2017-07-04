@@ -1,6 +1,6 @@
 {
   "name": "impack-cli",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "The impack command line tools",
   "license": "MIT",
   "repository": "taoyuan/impack-cli",
